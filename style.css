@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background-color:dodgerblue;
+}
+
+#title {
+    font-family: fantasy;
+}
+
+#topic {
+    width: 80%;
+    height: 450px;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.imgsection {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
